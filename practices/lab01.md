@@ -21,7 +21,7 @@
 
 7. En el directorio del tema, hay una carpeta llamada `exampleSite`, contiene un ejemplo de las configuraciones de ese tema. Copia todos esos archivos, y llévalos a la raíz de tu proyecto, sobreescribe los archivos tal cuál.
 
-Nota: Bajar el siguiente repo y cambiarse al branch `exampleSite`: `https://github.com/adityatelange/hugo-PaperMod.git`
+Nota: Bajar el siguiente repo y cambiarse al branch `exampleSite`: `https://github.com/adityatelange/hugo-PaperMod.git` (solo es necesario los archivos de configuración y de la carpeta content donde están los archivos de posts)
 
 9. Verifica que el nombre del tema en la configuración sea el mismo nombre del directorio del tema.
 10. Levanta el proyecto con: `hugo server`. Y podrías ver tu sitio en la url que te marcará Hugo.
